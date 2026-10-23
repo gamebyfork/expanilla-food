@@ -1,4 +1,4 @@
-# 🍽️ Expanilla Food
+# ![[EXPANILLA] FOOD](https://cdn.modrinth.com/data/cached_images/1e02f8862283650b3bd160a379cb4d14d8417075.png)
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1+-brightgreen.svg)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-blue.svg)](https://fabricmc.net/)
