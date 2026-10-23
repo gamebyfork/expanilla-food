@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "apple_juice",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:apple",
+    "minecraft:apple",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "expanilla_food:apple_juice",
+    "count": 1
+  }
+}

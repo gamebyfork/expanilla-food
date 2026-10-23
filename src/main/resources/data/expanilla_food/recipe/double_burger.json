@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "T  ",
+    "MM ",
+    "T  "
+  ],
+  "key": {
+    "T": "expanilla_food:toast",
+    "M": "#expanilla_food:burger_meats"
+  },
+  "result": { "id": "expanilla_food:double_burger", "count": 2 }
+}

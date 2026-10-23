@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:cooked_porkchop"
+  ],
+  "result": { "id": "expanilla_food:sausage_roll", "count": 4 }
+}

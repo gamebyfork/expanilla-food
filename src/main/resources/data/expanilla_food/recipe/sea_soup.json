@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:dried_kelp",
+    "minecraft:dried_kelp",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon"
+  ],
+  "result": { "id": "expanilla_food:sea_soup", "count": 1 }
+}

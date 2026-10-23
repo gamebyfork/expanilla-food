@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:baked_potato",
+    "minecraft:baked_potato",
+    "minecraft:milk_bucket"
+  ],
+  "result": { "id": "expanilla_food:mashed_potatoes", "count": 3 }
+}

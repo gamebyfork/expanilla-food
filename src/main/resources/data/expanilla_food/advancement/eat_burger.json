@@ -1,0 +1,23 @@
+{
+  "parent": "expanilla_food:root",
+  "display": {
+    "icon": { "id": "expanilla_food:double_burger" },
+    "title": { "translate": "advancement.expanilla_food.eat_burger.title" },
+    "description": { "translate": "advancement.expanilla_food.eat_burger.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "x": 1,
+    "y": 0
+  },
+  "criteria": {
+    "ate_burger": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "expanilla_food:double_burger"
+        }
+      }
+    }
+  }
+}

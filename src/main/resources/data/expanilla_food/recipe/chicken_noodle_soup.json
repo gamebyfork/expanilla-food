@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:cooked_chicken",
+    "minecraft:wheat",
+    "minecraft:carrot"
+  ],
+  "result": { "id": "expanilla_food:chicken_noodle_soup", "count": 1 }
+}

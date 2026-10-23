@@ -1,0 +1,31 @@
+{
+  "parent": "expanilla_food:root",
+  "display": {
+    "icon": { "id": "expanilla_food:honey_cake" },
+    "title": { "translate": "advancement.expanilla_food.eat_dessert.title" },
+    "description": { "translate": "advancement.expanilla_food.eat_dessert.description" },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "x": 1,
+    "y": 1
+  },
+  "criteria": {
+    "ate_dessert": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "expanilla_food:apple_pie",
+            "expanilla_food:berry_pie",
+            "expanilla_food:honey_cake",
+            "expanilla_food:caramel_apple",
+            "expanilla_food:chocolate_bar",
+            "expanilla_food:ice_cream",
+            "expanilla_food:berry_cookie"
+          ]
+        }
+      }
+    }
+  }
+}

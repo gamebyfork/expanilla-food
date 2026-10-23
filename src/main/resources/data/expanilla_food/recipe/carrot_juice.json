@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:carrot",
+    "minecraft:carrot",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "expanilla_food:carrot_juice",
+    "count": 1
+  }
+}

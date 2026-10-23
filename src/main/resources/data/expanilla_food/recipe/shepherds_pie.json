@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat", "minecraft:wheat", "minecraft:wheat",
+    "minecraft:cooked_mutton",
+    "minecraft:carrot",
+    "minecraft:baked_potato"
+  ],
+  "result": { "id": "expanilla_food:shepherds_pie", "count": 1 }
+}

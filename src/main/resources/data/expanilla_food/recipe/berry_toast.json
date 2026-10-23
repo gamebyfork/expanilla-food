@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "expanilla_food:toast",
+    "minecraft:sweet_berries",
+    "minecraft:sweet_berries"
+  ],
+  "result": { "id": "expanilla_food:berry_toast", "count": 1 }
+}

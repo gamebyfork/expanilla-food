@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "minecraft:pumpkin_seeds",
+  "result": { "id": "expanilla_food:pepitas" }
+}

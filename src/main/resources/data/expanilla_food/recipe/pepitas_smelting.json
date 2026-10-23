@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "minecraft:pumpkin_seeds",
+  "result": { "id": "expanilla_food:pepitas" }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "expanilla_food:item/cooked_beetroot"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "expanilla_food",
+  "version": "${version}",
+  "name": "Expanilla Food",
+  "description": "Expands vanilla cooking by adding over 30 new dishes, drinks, and desserts.",
+  "authors": [
+    "fork"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/expanilla-food",
+    "sources": "https://github.com/gamebyfork/expanilla-food"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.fork.expanilla_food.Expanilla_food"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.1",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

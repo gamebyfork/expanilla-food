@@ -1,0 +1,28 @@
+{
+  "parent": "expanilla_food:root",
+  "display": {
+    "icon": { "id": "expanilla_food:berry_smoothie" },
+    "title": { "translate": "advancement.expanilla_food.drink_juice.title" },
+    "description": { "translate": "advancement.expanilla_food.drink_juice.description" },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "x": 1,
+    "y": -1
+  },
+  "criteria": {
+    "drank_juice": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "expanilla_food:apple_juice",
+            "expanilla_food:carrot_juice",
+            "expanilla_food:berry_smoothie",
+            "expanilla_food:honey_drink"
+          ]
+        }
+      }
+    }
+  }
+}

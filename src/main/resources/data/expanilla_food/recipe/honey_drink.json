@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:honey_bottle",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "expanilla_food:honey_drink",
+    "count": 1
+  }
+}

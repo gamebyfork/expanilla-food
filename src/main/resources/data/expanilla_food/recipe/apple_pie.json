@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat", "minecraft:wheat", "minecraft:wheat",
+    "minecraft:apple",
+    "minecraft:sugar",
+    "minecraft:egg"
+  ],
+  "result": { "id": "expanilla_food:apple_pie", "count": 1 }
+}

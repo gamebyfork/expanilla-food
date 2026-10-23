@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "T",
+    "S",
+    "T"
+  ],
+  "key": {
+    "T": "expanilla_food:toast",
+    "S": "minecraft:cooked_beef"
+  },
+  "result": { "id": "expanilla_food:steak_sandwich", "count": 1 }
+}

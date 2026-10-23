@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": "minecraft:carrot",
+  "result": { "id": "expanilla_food:cooked_carrot" }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "minecraft:bread",
+  "result": {
+    "id": "expanilla_food:toast",
+    "count": 3
+  }
+}

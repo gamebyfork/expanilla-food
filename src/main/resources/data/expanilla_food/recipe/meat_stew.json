@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:cooked_beef",
+    "minecraft:baked_potato",
+    "minecraft:carrot"
+  ],
+  "result": { "id": "expanilla_food:meat_stew", "count": 1 }
+}

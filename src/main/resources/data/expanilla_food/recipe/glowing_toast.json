@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "expanilla_food:toast",
+    "minecraft:glow_berries",
+    "minecraft:glow_berries"
+  ],
+  "result": { "id": "expanilla_food:glowing_toast", "count": 1 }
+}

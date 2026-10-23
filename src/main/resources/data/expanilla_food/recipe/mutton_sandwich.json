@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    " T ",
+    " M ",
+    " T "
+  ],
+  "key": {
+    "T": "expanilla_food:toast",
+    "M": "minecraft:cooked_mutton"
+  },
+  "result": { "id": "expanilla_food:mutton_sandwich", "count": 1 }
+}

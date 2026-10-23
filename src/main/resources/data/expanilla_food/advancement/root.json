@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "id": "expanilla_food:apple_juice"
+    },
+    "title": { "translate": "advancement.expanilla_food.root.title" },
+    "description": { "translate": "advancement.expanilla_food.root.description" },
+    "background": "minecraft:block/farmland_moist",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
