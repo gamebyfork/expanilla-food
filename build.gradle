@@ -12,10 +12,18 @@ loom {
 
     mods {
         "expanilla_food" {
+            //noinspection GroovyAssignabilityCheck
             sourceSet sourceSets.main
+            //noinspection GroovyAssignabilityCheck
             sourceSet sourceSets.client
         }
     }
+}
+
+version = project.mod_version
+
+base {
+    archivesName = "${project.archives_base_name}-${project.version}+${project.minecraft_version}"
 }
 
 dependencies {
@@ -60,6 +68,7 @@ jar {
 publishing {
     publications {
         create("mavenJava", MavenPublication) {
+            //noinspection GroovyAssignabilityCheck
             from components.java
         }
     }
