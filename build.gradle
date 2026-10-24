@@ -7,7 +7,6 @@ repositories {
 }
 
 loom {
-    // Обязательно для Loom 1.17 при работе с 26.2
     splitEnvironmentSourceSets()
 
     mods {
