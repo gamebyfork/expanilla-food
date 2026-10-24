@@ -24,6 +24,8 @@ version = project.mod_version
 
 base {
     archivesName = "${project.archives_base_name}-${project.version}+${project.minecraft_version}"
+
+    tasks.withType(AbstractArchiveTask).configureEach {archiveVersion.set("")}
 }
 
 dependencies {
